@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://vnishindia.co.in/sitemap.xml
