@@ -1,54 +1,98 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-		<!--	created with www.mysitemapgenerator.com	-->
-		<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-	<loc>https://vnishindia.co.in/</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://vnishindia.co.in/</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>1.0</priority>
+<image:image>
+<image:loc>https://hitwebcounter.com/counter/counter.php?page=21021413&style=0030&nbdigits=5&type=ip&initCount=0</image:loc>
+</image:image>
+<image:image>
+<image:loc>https://vnishindia.co.in/assets/logo.png</image:loc>
+</image:image>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/index.html</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>1.0</priority>
+<loc>https://vnishindia.co.in/index.html</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>1.0</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/blog/index.html</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/blog/index.html</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/legal/about.html</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/legal/about.html</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/legal/contact.html</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/legal/contact.html</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/legal/privacy-policy.html</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/legal/privacy-policy.html</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/legal/terms.html</loc>
-	<lastmod>2025-07-13T10:12:42+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/legal/terms.html</loc>
+<lastmod>2025-07-22T15:09:57+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/blog/flash-custom-firmware-antminer-l7.html</loc>
-	<lastmod>2025-07-13T10:12:43+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/blog/top-5-asic-miners-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/blog/best-asic-miner-settings-2025.html</loc>
-	<lastmod>2025-07-13T10:12:43+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/blog/antminer-l7-profit-guide_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 <url>
-	<loc>https://vnishindia.co.in/blog/vnish-vs-hiveos.html</loc>
-	<lastmod>2025-07-13T10:12:43+01:00</lastmod>
-	<priority>0.8</priority>
+<loc>https://vnishindia.co.in/blog/bitcoin-halving-2025-guide_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/litecoin-mining-2025-guide_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/asic-firmware-updates-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/reduce-electricity-costs-mining-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/top-mining-pools-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/crypto-mining-trends-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/top-altcoins-mining-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/start-small-mining-farm-2025_updated.html</loc>
+<lastmod>2025-07-22T15:09:59+01:00</lastmod>
+<priority>0.8</priority>
+</url>
+<url>
+<loc>https://vnishindia.co.in/blog/</loc>
+<lastmod>2025-07-22T15:10:03+01:00</lastmod>
+<priority>0.8</priority>
 </url>
 </urlset>
